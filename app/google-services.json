@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "60244312436",
+    "firebase_url": "https://dbtest-5e34f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dbtest-5e34f",
+    "storage_bucket": "dbtest-5e34f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60244312436:android:8a6731eb99dce96739ec21",
+        "android_client_info": {
+          "package_name": "com.example.lozovabusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60244312436-5d65dtv5sm03dk0i3e2b5flvra68k4lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyCu2vvxjOgAyrNxcKhv1hRORg7S_8cCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60244312436-5d65dtv5sm03dk0i3e2b5flvra68k4lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
